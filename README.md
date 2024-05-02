@@ -13,7 +13,9 @@ This concept will be explored further in subsequent research.
 "generate-umri-profiles.py": Generate Unmet Risk Index profiles. You will need to create your own ASCVD and SMART risk score generators based on the code and documentation available:
 
 - ASCVD @ https://tools.acc.org/ASCVD-Risk-Estimator-Plus/#!/calculate/estimate/
+  - Model coefficients are available in the following publication: https://doi.org/10.1161/01.cir.0000437741.48606.98
 - SMART @ https://www.escardio.org/Education/ESC-Prevention-of-CVD-Programme/Risk-assessment/SMART-Risk-Score
+  - Model coefficients are available in the following publication: https://doi.org/10.1136/heartjnl-2013-303640
 
 "clustering.py": Compute the clusters using KPrototypes and plot them.
 
